@@ -1,3 +1,6 @@
+
+# learning git
+
 import random
 
 def play1():
